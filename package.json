@@ -1,5 +1,5 @@
 {
-  "name":"sustainicity-buzzer",
+  "name":"the-ripple-effect-buzzer",
   "version":"1.0.0",
   "private":true,
   "scripts":{"start":"node server.js"},
